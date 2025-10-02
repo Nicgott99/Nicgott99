@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Blockchain+Enthusiast;AI%2FML+Explorer;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mdhasibullahkhanalvie.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hasib-ullah-khan-alvie-7681aa27a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicgott99)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasibullah.khan.alvie@g.bracu.ac.bd)
@@ -17,16 +18,16 @@
 
 ```yaml
 name: Md Hasib Ullah Khan Alvie
-age: 22
+age: 23
 location: Bangladesh 🇧🇩
 education: Computer Science @ BRAC University
 passion: Building scalable applications, secure blockchain solutions & intelligent AI/ML models
 motto: "Code. Build. Innovate."
 ```
 
-- 💻 Full-Stack Developer with expertise in **MERN**, **Django**, and **PHP**
-- 🔗 Blockchain enthusiast exploring **DApps** and **Smart Contracts**
-- 🤖 AI/ML practitioner working with **Neural Networks**, **NLP**, and **Classification Models**
+- 💻 Full-Stack Developer with expertise in **MERN Stack** and **PHP**
+- 🔗 Blockchain enthusiast exploring **DApps**, **Smart Contracts**, and **Hyperledger Fabric**
+- 🤖 AI/ML practitioner working with **Neural Networks**, **Deep Learning**, and **Predictive Models**
 - 🌱 Constantly learning and experimenting with cutting-edge technologies
 - 💡 Love solving real-world problems through innovative technical solutions
 
@@ -54,7 +55,7 @@ motto: "Code. Build. Innovate."
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -65,13 +66,15 @@ motto: "Code. Build. Innovate."
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### AI/ML & Blockchain
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 
 </div>
 
@@ -94,21 +97,21 @@ motto: "Code. Build. Innovate."
 <td width="33%" valign="top">
 
 ### 🔗 Blockchain
-- Smart Contracts
+- Smart Contracts (Solidity)
 - DApp Development
-- Ethereum & Solidity
+- Ethereum & MetaMask
+- Hyperledger Fabric
 - Web3 Integration
-- Ganache Testing
 
 </td>
 <td width="33%" valign="top">
 
 ### 🤖 AI/ML
 - Neural Networks
-- NLP Applications
-- Classification Models
-- Deep Learning
-- Data Analysis
+- Deep Learning & Clustering
+- Predictive Analytics
+- Hotel Booking Prediction
+- Data Analysis & Modeling
 
 </td>
 </tr>
@@ -122,36 +125,33 @@ motto: "Code. Build. Innovate."
 <summary><b>🏗️ Full-Stack Applications</b></summary>
 <br>
 
-- 📚 **[Online Bookstore](#)** *(PHP, MySQL)*  
-  Comprehensive e-commerce platform with shopping cart, payment gateway integration, and order management workflow.
-
-- 🏠 **[To-Let Finder](#)** *(MERN Stack)*  
-  Property search and rental platform featuring secure JWT authentication, image uploads, and real-time listings.
-
-- 🛒 **[Sports Item Selling & Slot Booking](#)** *(Django)*  
-  Dual-purpose platform combining e-commerce functionality with booking management system.
+- 🏟️ **[Premium Sports Field Booking Platform](https://github.com/Nicgott99/Premium-Sports-Field-Booking-Platform)** *(MERN Stack)*  
+  Full-featured sports facility booking system with real-time availability, secure payments, and user dashboard for managing bookings.
 
 </details>
 
-<details>
+<details open>
 <summary><b>🔗 Blockchain Projects</b></summary>
 <br>
 
-- Smart contract implementations on Ethereum
-- Decentralized application (DApp) prototypes
-- Token creation and management systems
+- 🌪️ **[Disaster Recovery Training Management DApp](https://github.com/Nicgott99/Disaster-Recovery-Training-Management-DApp-Development)** *(Solidity, MetaMask, Ethereum)*  
+  Decentralized application for managing disaster recovery training programs with smart contract automation and secure blockchain transactions.
+
+- 🏘️ **[Hyperledger Fabric Property Tracker](https://github.com/Nicgott99/Hyperledger-Fabric-Property-Tracker)** *(Hyperledger Fabric)*  
+  Private blockchain solution for tracking property ownership and transactions using Hyperledger Fabric framework.
 - Blockchain-based voting mechanisms
 
 </details>
 
-<details>
+<details open>
 <summary><b>🤖 AI/ML Projects</b></summary>
 <br>
 
-- Classification models using Scikit-learn
-- Neural network implementations with TensorFlow
-- Natural Language Processing applications
-- Predictive analytics and data visualization
+- 🏨 **[Hotel Booking Cancellations Prediction](https://github.com/Nicgott99/Hotel-Booking-Cancellations-Prediction-and-Analysis)** *(Python, Scikit-learn, Data Analysis)*  
+  Machine learning model to predict hotel booking cancellations with comprehensive data analysis and feature engineering.
+
+- 🧠 **[Deep Clustering with Neural Networks](https://github.com/Nicgott99/CSE425-Project)** *(Deep Learning, Neural Networks)*  
+  Advanced neural network implementation for deep clustering analysis and pattern recognition.
 
 </details>
 
@@ -216,6 +216,8 @@ motto: "Code. Build. Innovate."
 <div align="center">
 
 **Open to collaborations, freelance opportunities, and tech discussions!**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://mdhasibullahkhanalvie.me/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hasib-ullah-khan-alvie-7681aa27a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicgott99)
