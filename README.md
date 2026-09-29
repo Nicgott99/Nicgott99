@@ -6,10 +6,7 @@
 
 <div align="center">
 
-<!-- Advanced isometric contribution calendar - full year with dates and months -->
-<img alt="Isometric contribution calendar for the full year with detailed contribution data and dates" 
-     src="https://metrics.lecoq.io/Nicgott99?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka&config.padding=0%2C0" 
-     width="100%" />
+<img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicgott99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" width="100%" />
 
 <br/>
 
