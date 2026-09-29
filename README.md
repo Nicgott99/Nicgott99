@@ -10,11 +10,11 @@
 
 <br/>
 
-<!-- Advanced contribution calendar with dates and months -->
+<!-- Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/Nicgott99?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka" />
-  <source media="(prefers-color-scheme: light)" srcset="https://metrics.lecoq.io/Nicgott99?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka" />
-  <img alt="Contribution calendar with dates and months" src="https://metrics.lecoq.io/Nicgott99?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nicgott99&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nicgott99&theme=github-compact&bg_color=FFFFFF&color=0969DA&line=0969DA&point=24292F&area=true&hide_border=true" />
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicgott99&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </picture>
 
 <br/>
