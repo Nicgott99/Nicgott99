@@ -113,6 +113,8 @@ I build software across three areas: **full-stack web** (MERN, PHP), **blockchai
 
 ---
 
+---
+
 ## Activity
 
 <div align="center">
@@ -120,7 +122,7 @@ I build software across three areas: **full-stack web** (MERN, PHP), **blockchai
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/profile-summary-card-output/github/0-profile-details.svg" />
-  <img alt="Profile details and daily contribution chart" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+  <img alt="Profile details and contribution calendar with dates and months" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
 </picture>
 
 <table>
