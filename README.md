@@ -189,7 +189,7 @@ Open to collaboration, freelance work and technical discussion. The fastest rout
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" />
-  <img alt="Contribution calendar with dates and months" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" width="100%" />
+  <img alt="Contribution calendar with dates and months" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" width="75%" style="max-width: 600px;" />
 </picture>
 <br/>
 
