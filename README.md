@@ -163,3 +163,10 @@ Open to collaboration, freelance work and technical discussion. The fastest rout
 <sub>Code. Build. Innovate.</sub>
 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/Nicgott99?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka" />
+  <source media="(prefers-color-scheme: light)" srcset="https://metrics.lecoq.io/Nicgott99?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka" />
+  <img alt="Contribution calendar with dates and months" src="https://metrics.lecoq.io/Nicgott99?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka" width="100%" />
+</picture>
+
+<br/>
