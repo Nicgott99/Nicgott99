@@ -8,15 +8,7 @@
 </picture>
 
 <br/>
-<br/>
 
-<!-- Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" />
-  <img alt="Contribution calendar with dates and months" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" width="100%" />
-</picture>
-<br/>
 
 # Md Hasib Ullah Khan Alvie
 
@@ -190,4 +182,14 @@ Open to collaboration, freelance work and technical discussion. The fastest rout
 <sub>Code. Build. Innovate.</sub>
 
 </div>
+
+<br/>
+
+<!-- Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" />
+  <img alt="Contribution calendar with dates and months" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" width="100%" />
+</picture>
+<br/>
 
