@@ -152,6 +152,22 @@ I build software across three areas: **full-stack web** (MERN, PHP), **blockchai
 </picture>
 </td>
 </tr>
+<tr>
+<td width="50%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/profile-summary-card-output/github/3-stats.svg" />
+  <img alt="Stats" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%" />
+</picture>
+</td>
+<td width="50%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/profile-summary-card-output/github/4-productive-time.svg" />
+  <img alt="Productive time" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" />
+</picture>
+</td>
+</tr>
 </table>
 
 </div>
