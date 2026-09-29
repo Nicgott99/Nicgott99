@@ -6,7 +6,11 @@
 
 <div align="center">
 
-<img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicgott99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/output/github-snake.svg" />
+  <img alt="My GitHub contribution graph, animated as a snake eating each day's contributions" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 <br/>
 
