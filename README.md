@@ -7,7 +7,6 @@
   <img alt="My GitHub contribution graph, animated as a snake eating each day's contributions" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<br/>
 
 <br/>
 
