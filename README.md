@@ -7,16 +7,15 @@
   <img alt="My GitHub contribution graph, animated as a snake eating each day's contributions" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-
+<br/>
 <br/>
 
 <!-- Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nicgott99&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nicgott99&theme=github-compact&bg_color=FFFFFF&color=0969DA&line=0969DA&point=24292F&area=true&hide_border=true" />
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicgott99&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" />
+  <img alt="Contribution calendar with dates and months" src="https://raw.githubusercontent.com/Nicgott99/Nicgott99/main/github-metrics.svg" width="100%" />
 </picture>
-
 <br/>
 
 # Md Hasib Ullah Khan Alvie
