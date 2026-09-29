@@ -1,0 +1,33 @@
+name: Generate metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate isometric calendar metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Commit metrics
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add github-metrics.svg
+          git commit -m "Update metrics" || echo "No changes"
+          git push
