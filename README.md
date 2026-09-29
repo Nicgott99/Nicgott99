@@ -183,3 +183,10 @@ Open to collaboration, freelance work and technical discussion. The fastest rout
 <sub>Code. Build. Innovate.</sub>
 
 </div>
+<div align="center">
+
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nicgott99&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
